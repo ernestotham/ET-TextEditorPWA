@@ -68,3 +68,6 @@ link to live sample of the app:
 https://et-jate.herokuapp.com/
 
 
+sample image:
+![JATE](https://user-images.githubusercontent.com/23125242/159615820-c4a7aa89-c9da-401c-be33-6aa58270ba1e.jpg)
+
